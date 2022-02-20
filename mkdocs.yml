@@ -1,8 +1,0 @@
-site_name: Jim Barlow's Blog
-site_url: https://jimbarlow.github.io
-nav:
-  - Home: index.md
-  - UserGuide: userguide.md
-  - Upgrading: upgrading.md
-  - About: about.md
-theme: readthedocs
